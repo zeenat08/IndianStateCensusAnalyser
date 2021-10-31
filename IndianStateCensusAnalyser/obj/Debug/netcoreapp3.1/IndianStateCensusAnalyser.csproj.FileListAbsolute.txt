@@ -1,0 +1,14 @@
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfo.cs
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.exe
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.deps.json
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.json
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.dev.json
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+C:\Users\Afiyat Khan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.genruntimeconfig.cache
