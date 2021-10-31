@@ -48,7 +48,7 @@ namespace CensusAnalyserTest
             stateRecord = new Dictionary<string, CensusDTO>();
         }
 
-        /// UC1
+        
         /// <summary>
         /// TC 1.1 --> Given the indian census data file when readed should return census data count.
         /// </summary>
